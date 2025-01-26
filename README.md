@@ -1,12 +1,13 @@
-# Mobile-Activities
+# ISIS3510
 
-## **Integrantes del Equipo**
+## **Group members**
 
-| **Apellido** | **Nombre** | **Usuario Uniandes** | **Usuario GitHub** |
-|--------------|------------|-----------------------|---------------------|
-| Carretero Serrano | Laura Julieth | l.carretero | lauths12  |
-| Rios Nisperuza | Juan David | jd.riosn1  | ElIngeJuan  |
-|||||
-|||||
-|||||
----
+
+| **Full Name**          | **Email**         | **Code**   |
+|------------------------|-------------------|------------|
+| Laura Julieth Carretero Serrano | l.carretero | 202214922 |
+| Juan David Rios Nisperuza | jd.riosn1 | 202215787  |
+||||
+||||
+||||
+||||
