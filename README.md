@@ -9,5 +9,5 @@
 | Juan David Rios Nisperuza | jd.riosn1 | 202215787  |
 | Samuel Augusto Hernandez Diaz | sa.hernandezd1 | 202213772 |
 |Juan Pablo Peña Jaime|j.penaj|202212756|
-||||
+|Camilo Andrés Daza R |ca.daza10| 201416461 |
 ||||
